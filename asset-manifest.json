@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/giorgosart/react-easy-edit/main.css",
+    "main.js": "/giorgosart/react-easy-edit/main.dea408dbcac98c013540.bundle.js",
+    "main.css.map": "/giorgosart/react-easy-edit/main.css.map",
+    "main.js.map": "/giorgosart/react-easy-edit/main.dea408dbcac98c013540.bundle.js.map",
+    "runtime~main.js": "/giorgosart/react-easy-edit/runtime~main.dea408dbcac98c013540.bundle.js",
+    "runtime~main.js.map": "/giorgosart/react-easy-edit/runtime~main.dea408dbcac98c013540.bundle.js.map",
+    "vendors~main.js": "/giorgosart/react-easy-edit/vendors~main.dea408dbcac98c013540.bundle.js",
+    "vendors~main.js.map": "/giorgosart/react-easy-edit/vendors~main.dea408dbcac98c013540.bundle.js.map",
+    "iframe.html": "/giorgosart/react-easy-edit/iframe.html",
+    "precache-manifest.8769a57e8da9e892d79e928d55bdef81.js": "/giorgosart/react-easy-edit/precache-manifest.8769a57e8da9e892d79e928d55bdef81.js",
+    "service-worker.js": "/giorgosart/react-easy-edit/service-worker.js"
+  },
+  "entrypoints": [
+    "runtime~main.dea408dbcac98c013540.bundle.js",
+    "vendors~main.dea408dbcac98c013540.bundle.js",
+    "main.css",
+    "main.dea408dbcac98c013540.bundle.js"
+  ]
+}
