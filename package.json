@@ -25,7 +25,9 @@
     "build": "rollup -c -o build/react-easy-edit.min.js",
     "test": "react-scripts test",
     "coverage": "react-scripts test --coverage --watchAll=false",
-    "prepublish": "yarn build"
+    "prepublish": "yarn build",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "main": "build/react-easy-edit.min.js",
   "repository": {
@@ -55,6 +57,11 @@
     "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.6.3",
     "@babel/preset-react": "^7.6.3",
+    "@storybook/addon-actions": "^5.2.6",
+    "@storybook/addon-links": "^5.2.6",
+    "@storybook/addons": "^5.2.6",
+    "@storybook/react": "^5.2.6",
+    "babel-loader": "^8.0.6",
     "enzyme": "3.10.0",
     "enzyme-adapter-react-16": "1.15.1",
     "prop-types": "^15.7.2",
